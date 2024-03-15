@@ -1,0 +1,1 @@
+# Adding-diagnol-elements-in-10-10-matrix
